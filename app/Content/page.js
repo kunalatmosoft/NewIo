@@ -45,7 +45,7 @@ export default function Home() {
       </Head>
       <main className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-purple-600 via-pink-500 to-red-400">
         <div className="w-full max-w-5xl p-10 bg-white bg-opacity-90 rounded-lg shadow-lg border border-gray-200">
-          <h1 className="text-6xl font-extrabold text-center text-gray-800 mb-6 drop-shadow-lg">
+          <h1 className="text-4xl font-extrabold text-center text-gray-800 mb-6 drop-shadow-lg">
             AtmoWrite&trade;
           </h1>
           <p className="text-center text-lg text-gray-600 mb-8">
